@@ -1,0 +1,9 @@
+ShortCode,Designation,Message
+AT_UpdateDesignationDesignation,AT_Designation,Designation Code Already Exists
+AT_UpdateValidationDesignation,A,Minimum Required Designation Code Length is 2 and Maximum is 20
+AT_UpdateValidationDesignation,AT_UDesignationVAT_UDesignationVAT_UDesignationV,Minimum Required Designation Code Length is 2 and Maximum is 20
+AT_Designation,AT_UDesignationV,Designation Name Already Exists
+AT,AT_DesignationV,Minimum Required Designation Name Length is 3 and Maximum is 250
+12345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901,AT_DesignationV,Minimum Required Designation Name Length is 3 and Maximum is 250
+,AT_SaveDesignation,Please enter Designation code
+AT_SDesignation,,Please enter Designation name
