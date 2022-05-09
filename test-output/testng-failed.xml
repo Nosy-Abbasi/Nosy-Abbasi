@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.qa.test.PasswordPolicyTest">
+      <class name="com.qa.test.DocumentHeadTest">
         <methods>
-          <include name="updateValidationPasswordPolicy" invocation-numbers="3"/>
+          <include name="deleteDocumentHead" invocation-numbers="0"/>
         </methods>
-      </class> <!-- com.qa.test.PasswordPolicyTest -->
+      </class> <!-- com.qa.test.DocumentHeadTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
